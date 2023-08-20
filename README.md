@@ -52,7 +52,7 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 Developed by: S.JAIGANESH
 RegisterNumber: 212222240037
 */
-`
+```
 module expone(a,b,yor,yand,ynot,ynor,ynand,yxor,yxnor);
 input a,b;
 output yor,yand,ynot,ynor,ynand,yxor,yxnor;
@@ -64,7 +64,7 @@ nand(ynand,a,b);
 xor(yxor,a,b);
 xnor(yxnor,a,b);
 endmodule 
-`
+```
 
 # LOGIC SYMBOL & TRUTHTABLE:
 
