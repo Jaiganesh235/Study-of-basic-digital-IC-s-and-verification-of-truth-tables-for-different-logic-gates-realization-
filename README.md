@@ -75,10 +75,14 @@ xor(yxor,a,b);
 xnor(yxnor,a,b);
 endmodule 
 `
-Logic symbol & Truthtable
-RTL realization
-Output:
-RTL
+
+# LOGIC SYMBOL & TRUTHTABLE:
+
+# RTL REALIZATION:
+
+# OUTPUT WAVEFORM:
+
+# RESULT:
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
