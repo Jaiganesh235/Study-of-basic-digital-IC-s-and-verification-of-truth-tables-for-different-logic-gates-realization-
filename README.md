@@ -33,16 +33,20 @@ Y= (AB)’
 This is a NOT-OR gate which is equal to an OR gate followed by a NOT gate. The outputs of all NOR gates are low if any of the inputs are high. The symbol is an OR gate with a small circle on the output. The small circle represents inversion.
 Y= (A+B)’
 ### 6) Ex-OR gate
-The 'Exclusive-OR' gate is a circuit which will give a high output if either, but not both of its two inputs are high. An encircled plus sign (⊕) is used to show the Ex-OR operation.
+The 'Exclusive-OR' gate is a circuit which will give a high output if either, but not both of its two inputs are high. 
+An encircled plus sign (⊕) is used to show the Ex-OR operation.
 Y= A⊕B
 ### 7) Ex-NOR gate
-The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will give a low output if either, but not both of its two inputs are high. The symbol is an EX-OR gate with a small circle on the output. The small circle represents inversion.
+The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will give a low output if either, but not both of its two inputs are high. 
+The symbol is an EX-OR gate with a small circle on the output. The small circle represents inversion.
 Y= A⊕B
 
 ## PROCEDURE:
 Connect the supply (+5V) to the circuit.
 Switch ON the main switch.
-Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
+Press the switches for inputs “A” and “B”. 
+The switch is ON state when 1 is pressed. 
+The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 
