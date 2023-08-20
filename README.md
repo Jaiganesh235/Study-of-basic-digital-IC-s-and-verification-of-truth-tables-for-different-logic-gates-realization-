@@ -66,10 +66,13 @@ endmodule
 ```
 
 ## LOGIC SYMBOL & TRUTHTABLE:
+![image](https://github.com/Jaiganesh235/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118657189/a5aaa627-8dbe-4f71-816c-6536f61d2152)
 
 ## RTL REALIZATION:
+![image](https://github.com/Jaiganesh235/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118657189/01c17c39-2900-420a-81e5-ac63e7e33886)
 
 ## OUTPUT WAVEFORM:
+![image](https://github.com/Jaiganesh235/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118657189/57ae4539-fb0d-4a68-a77e-b0f70f698ab3)
 
 ## RESULT:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
