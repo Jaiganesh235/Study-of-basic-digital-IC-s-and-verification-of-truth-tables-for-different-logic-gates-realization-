@@ -7,8 +7,8 @@
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
 ## COMPONENTS REQUIRED:
-Hardware – PCs, Cyclone II , USB flasher
-Software – Quartus prime
+1.  Hardware – PCs, Cyclone II , USB flasher
+2.  Software – Quartus prime
 
 ## THEORY:
 ### Introduction:
