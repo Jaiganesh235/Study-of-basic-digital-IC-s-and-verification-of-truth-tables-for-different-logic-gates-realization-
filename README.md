@@ -1,8 +1,12 @@
-# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
- AIM:
+# NAME: S.JAIGANESH
+# REGISTRATION NO: 212222240037
+
+# EXP 1: STUDY OF BASIC DIGITAL IC'S AND VERIFICATION OF TRUTH TABLES FOR DIFFERENT LOGIC GATES REALIZATION
+ 
+# AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
-Equipments Required:
+# COMPONENTS REQUIRED:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
 Theory
