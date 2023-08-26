@@ -53,6 +53,10 @@ Y= A⊕B
 
 ## PROGRAM:
 ```
+#Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
+#Developed by: S.JAIGANESH
+#RegisterNumber: 212222240037
+
 module expone(a,b,yor,yand,ynot,ynor,ynand,yxor,yxnor);
 input a,b;
 output yor,yand,ynot,ynor,ynand,yxor,yxnor;
