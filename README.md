@@ -66,14 +66,14 @@ xnor(yxnor,a,b);
 endmodule 
 ```
 
-## LOGIC SYMBOL & TRUTHTABLE:
-![image](https://github.com/Jaiganesh235/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118657189/a5aaa627-8dbe-4f71-816c-6536f61d2152)
+## TRUTHTABLE:
+![image](https://github.com/Jaiganesh235/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118657189/662e1ae9-9fad-4205-8f0c-f649d7ed457a)
 
 ## RTL REALIZATION:
-![image](https://github.com/Jaiganesh235/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118657189/01c17c39-2900-420a-81e5-ac63e7e33886)
+![image](https://github.com/Jaiganesh235/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118657189/7b8f4028-92ff-450d-be55-d8e24bdf42a0)
 
 ## OUTPUT WAVEFORM:
-![image](https://github.com/Jaiganesh235/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118657189/57ae4539-fb0d-4a68-a77e-b0f70f698ab3)
+![image](https://github.com/Jaiganesh235/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118657189/19511fba-791e-4589-9272-4e5a59d92e04)
 
 ## RESULT:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
